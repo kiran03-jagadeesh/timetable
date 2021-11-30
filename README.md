@@ -55,4 +55,5 @@ Execute the program
 
 
 ~~~
-# OUPUT
+# OUTPUT
+![Github logo](img.png)
